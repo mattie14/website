@@ -1,0 +1,18 @@
+title: Hi, I'm Matt!
+email: mattkharrison07@gmail.com
+description: > 
+  Software Engineer with a passion for learning.
+baseurl: "/website" 
+url: "http://mattie14.github.io" 
+
+github_username: mattie14
+linkedin_username: matt-harrison-b1b2b13a
+
+# Build settings
+markdown: kramdown
+theme: jekyll-swiss
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
