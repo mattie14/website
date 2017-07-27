@@ -2,7 +2,7 @@ title: Hi, I'm Matt!
 email: mattkharrison07@gmail.com
 description: > 
   Software Engineer with a passion for learning.
-baseurl: "/website" 
+baseurl: /website
 url: "https://mattie14.github.io" 
 
 github_username: mattie14
