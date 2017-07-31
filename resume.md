@@ -19,6 +19,7 @@ _Frameworks:_ Spring Web model-view-controller (MVC), JUnit Testing
 
 # Experience
 Accenture - Austin, TX<br>
+
 _Application Development Analyst (May 2016 – Current)_<br>
 Provide application support to resolve technical and functional issues experienced by end users:<br>
 * Responsible for providing the root cause analysis (RCA), proposing and implementing a solution and seeing it through production deployment.<br>
