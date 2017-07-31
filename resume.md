@@ -18,7 +18,19 @@ _Frameworks:_ Spring Web model-view-controller (MVC), JUnit Testing
 
 
 # Experience
-ToDo<br>
+Accenture - Austin, TX<br>
+_Application Development Analyst (May 2016 – Current)_<br>
+Provide application support to resolve technical and functional issues experienced by end users:<br>
+* Responsible for providing the root cause analysis (RCA), proposing and implementing a solution and seeing it through production deployment.<br>
+* Work closely with business analysts and stakeholders.<br>
+* Actively involved in peer reviews, documentation, test support, defect fixing and resolving production tickets; since starting the role of Analyst, contributed to the closure of over 80 incidents and defects for an enterprise web application.<br>
+* Analyze SOAP request and response payloads, identify solutions to problems, and test the full functionality from end-to-end; consequently, achieved a 98% pass rate for both inbound and outbound processes (Q2, 2017).<br>
+
+_Java Developer (November 2014 – May 2016)_<br>
+Worked alongside developers, testers, and business analysts to design, develop, and test software specifications:<br>
+* Fulfilled client requirements by providing valuable insight and contributions to the design and development of four technical specifications for a large-scale enterprise web application.<br>
+* Responsible for mentoring and training a team of five new-hires over a one-month period. During that time, the team supported and enhanced integration testing efforts; achievements contributed to a 90% pass rate in the system test phase.<br>
+* Took ownership of defects found during system testing/user-acceptance testing; proactively sought solutions to over 40 defects, 15% of which were high severity, while meeting the service level agreement (SLA) for each defect.<br>
 
 # Education
 Bachelor of Science in Computer Engineering, August 2014<br>
