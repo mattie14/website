@@ -38,4 +38,4 @@ Bachelor of Science in Computer Engineering, August 2014<br>
 University of Houston-Clear Lake – Houston, TX
 
 # Awards & Recognition
-Austin Delivery Center Greater Than Awards Nominee, Accenture, 2017
+Austin Delivery Center _Greater Than Awards_ Nominee, Accenture, 2017
