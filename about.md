@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/images/MattHarrison.jpg" height="200" width="200" class="inline-left" align="top" title="Matt Harrison" alt="Matt Harrison" style="border-radius: 50%;" />
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac iaculis nunc. Duis et nunc in mi venenatis aliquam quis sit amet ex. Aenean vestibulum nunc in faucibus dictum. Aenean sed augue eu sem aliquam pretium. Praesent finibus suscipit faucibus. Maecenas non ipsum non est maximus pellentesque sed eget dolor. Integer ut dui elit. Aliquam consequat aliquet ipsum, non molestie lorem ullamcorper tincidunt. Maecenas posuere quam id vulputate porta. Aliquam scelerisque enim et tellus finibus bibendum. Integer id ex eget quam sodales euismod vitae nec mi. Nulla fringilla, sem id finibus volutpat, mi felis fermentum arcu, tristique mattis tortor leo non sem.
+<img src="{{ site.baseurl }}/images/MattHarrison.jpg" height="300" width="300" align="top" title="Matt Harrison" alt="Matt Harrison" style="border-radius: 50%; float: left;" />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac iaculis nunc. Duis et nunc in mi venenatis aliquam quis sit amet ex. Aenean vestibulum nunc in faucibus dictum. Aenean sed augue eu sem aliquam pretium. Praesent finibus suscipit faucibus. Maecenas non ipsum non est maximus pellentesque sed eget dolor. Integer ut dui elit. Aliquam consequat aliquet ipsum, non molestie lorem ullamcorper tincidunt. Maecenas posuere quam id vulputate porta. Aliquam scelerisque enim et tellus finibus bibendum. Integer id ex eget quam sodales euismod vitae nec mi. Nulla fringilla, sem id finibus volutpat, mi felis fermentum arcu, tristique mattis tortor leo non sem.
 
 Fusce ut lectus dui. Nulla non elit in ante porttitor fermentum eget id ante. Aenean auctor lacus nunc, in euismod urna tempus in. Aliquam sit amet neque dignissim, tristique tortor ac, malesuada ex. Aenean pulvinar lorem quis posuere commodo. Praesent ut ipsum magna. Fusce metus odio, aliquam id vestibulum a, molestie quis lorem.
 
