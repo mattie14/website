@@ -11,6 +11,8 @@ linkedin_username: matt-harrison-b1b2b13a
 markdown: kramdown
 theme: jekyll-swiss
 theme_color: white
+sass:
+  sass_dir: _sass
 gems:
   - jekyll-feed
 exclude:

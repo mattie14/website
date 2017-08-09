@@ -3,8 +3,27 @@ layout: page
 title: About
 permalink: /about/
 ---
+<style>
+* Grow Shadow */
+.hvr-grow-shadow {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: box-shadow, transform;
+  transition-property: box-shadow, transform;
+}
+.hvr-grow-shadow:hover, .hvr-grow-shadow:focus, .hvr-grow-shadow:active {
+  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+</style>
 
-<img src="{{ site.baseurl }}/images/MattHarrison.jpg" height="250" width="250" align="top" title="Matt Harrison" alt="Matt Harrison" style="border-radius: 50%; float: left; margin: 50px 50px;" />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac iaculis nunc. Duis et nunc in mi venenatis aliquam quis sit amet ex. Aenean vestibulum nunc in faucibus dictum. Aenean sed augue eu sem aliquam pretium. Praesent finibus suscipit faucibus. Maecenas non ipsum non est maximus pellentesque sed eget dolor. Integer ut dui elit. Aliquam consequat aliquet ipsum, non molestie lorem ullamcorper tincidunt. Maecenas posuere quam id vulputate porta. Aliquam scelerisque enim et tellus finibus bibendum. Integer id ex eget quam sodales euismod vitae nec mi. Nulla fringilla, sem id finibus volutpat, mi felis fermentum arcu, tristique mattis tortor leo non sem. Fusce ut lectus dui. Nulla non elit in ante porttitor fermentum eget id ante. Aenean auctor lacus nunc, in euismod urna tempus in. Aliquam sit amet neque dignissim, tristique tortor ac, malesuada ex. Aenean pulvinar lorem quis posuere commodo. Praesent ut ipsum magna. Fusce metus odio, aliquam id vestibulum a, molestie quis lorem.
+<img src="{{ site.baseurl }}/images/MattHarrison.jpg" height="200" width="200" align="top" title="Matt Harrison" alt="Matt Harrison" style="border-radius: 50%; float: right;" />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac iaculis nunc. Duis et nunc in mi venenatis aliquam quis sit amet ex. Aenean vestibulum nunc in faucibus dictum. Aenean sed augue eu sem aliquam pretium. Praesent finibus suscipit faucibus. Maecenas non ipsum non est maximus pellentesque sed eget dolor. Integer ut dui elit. Aliquam consequat aliquet ipsum, non molestie lorem ullamcorper tincidunt. Maecenas posuere quam id vulputate porta. Aliquam scelerisque enim et tellus finibus bibendum. Integer id ex eget quam sodales euismod vitae nec mi. Nulla fringilla, sem id finibus volutpat, mi felis fermentum arcu, tristique mattis tortor leo non sem. Fusce ut lectus dui. Nulla non elit in ante porttitor fermentum eget id ante. Aenean auctor lacus nunc, in euismod urna tempus in. Aliquam sit amet neque dignissim, tristique tortor ac, malesuada ex. Aenean pulvinar lorem quis posuere commodo. Praesent ut ipsum magna. Fusce metus odio, aliquam id vestibulum a, molestie quis lorem.
 
 Sed sollicitudin enim vitae eleifend dignissim. Nulla congue magna quis nisi elementum lobortis. Ut vestibulum pulvinar fringilla. Nam id velit efficitur magna interdum faucibus. Donec ac tincidunt justo. Donec porta nisi et eros finibus aliquet. Donec porttitor nibh vel est accumsan viverra. Sed ac felis varius, aliquam arcu ut, luctus metus. Suspendisse potenti.
 

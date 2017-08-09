@@ -1,7 +1,6 @@
 title: Hi, I'm Matt!
 email: mattkharrison07@gmail.com
-description: > 
-  Software Engineer with a passion for learning.
+description: >
 baseurl: "" 
 url: "http://localhost:4000" 
 
@@ -12,6 +11,8 @@ linkedin_username: matt-harrison-b1b2b13a
 markdown: kramdown
 theme: jekyll-swiss
 theme_color: white
+sass:
+  sass_dir: _sass
 gems:
   - jekyll-feed
 exclude:
