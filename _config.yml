@@ -10,7 +10,7 @@ linkedin_username: matt-harrison-b1b2b13a
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
-theme_color: white
+theme_color: black
 sass:
   sass_dir: _sass
 gems:
